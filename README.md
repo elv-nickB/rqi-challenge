@@ -4,7 +4,7 @@
 This exercise evaluates numerical intuition, the ability to learn and explain a mathematical method, and practical software skills. You will study the Rayleigh Quotient Iteration (RQI) method for computing an eigenpair, explain it clearly in a short writeup, and then implement a small web service that exposes the solver over HTTP.
 
 ## Instructions
-You are free to consult online resources or use LLMs to help understand concepts or to reference library documentation. Do not query for full implementations of an RQI solver (psuedocode ok).
+You are free to consult online resources or use LLMs to help understand concepts or to reference library documentation. Do not query for full implementations of an RQI solver (psuedocode ok) and do not use automatic code completion services.
 
 You may tackle the following parts in any order. The goal is to go as wide as possible in these three areas rather than fixate on one of them - if you are stuck it's better to move on and come back. 
 
